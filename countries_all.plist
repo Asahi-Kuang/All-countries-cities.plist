@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>泰国 Thailand</string>
+	<string>印度 India</string>
+	<string>日本 Japan</string>
+	<string>韩国 South Korea</string>
+	<string>缅甸 Myanmar</string>
+	<string>柬埔寨 Cambodia</string>
+	<string>菲律宾 Philippines</string>
+	<string>马来西亚 Malaysia</string>
+	<string>尼泊尔  Nepal</string>
+	<string>印度尼西亚 Indonesia</string>
+	<string>越南 Vietnam</string>
+	<string>马尔代夫 Maldives</string>
+	<string>新加坡 Singapore</string>
+	<string>香港 Hong Kong</string>
+	<string>台湾 Taiwan</string>
+	<string>澳门 Macau</string>
+	<string>阿富汗 Afghanistan</string>
+	<string>阿联酋 United Arab Emirates</string>
+	<string>阿曼 Oman</string>
+	<string>巴基斯坦 Pakistan</string>
+	<string>巴勒斯坦 Palestine</string>
+	<string>巴林 Bahrain</string>
+	<string>不丹 Bhutan</string>
+	<string>朝鲜 North Korea</string>
+	<string>东帝汶 East Timor</string>
+	<string>哈萨克斯坦 Kazakhstan</string>
+	<string>吉尔吉斯斯坦 Kyrgyzstan</string>
+	<string>卡塔尔 Qatar</string>
+	<string>老挝 Laos</string>
+	<string>黎巴嫩 Lebanon</string>
+	<string>蒙古 Mongolia</string>
+	<string>孟加拉国 Bangladesh</string>
+	<string>沙特阿拉伯 Saudi Arabia</string>
+	<string>斯里兰卡 Sri Lanka</string>
+	<string>塔吉克斯坦 Tajikistan</string>
+	<string>文莱 Brunei</string>
+	<string>乌兹别克斯坦 Uzbekistan</string>
+	<string>叙利亚 Syria</string>
+	<string>也门 Yemen</string>
+	<string>伊拉克 Iraq</string>
+	<string>伊朗 Iran</string>
+	<string>英属印度洋领地 British Indian Ocean Territory</string>
+	<string>以色列 Israel</string>
+	<string>约旦 Jordan</string>
+	<string>中国 China</string>
+	<string>法国 France</string>
+	<string>意大利 Italy</string>
+	<string>希腊 Greece</string>
+	<string>西班牙 Spain</string>
+	<string>英国 United Kingdom</string>
+	<string>德国 Germany</string>
+	<string>比利时 Belgium</string>
+	<string>荷兰 Netherlands</string>
+	<string>瑞典 Sweden</string>
+	<string>土耳其 Turkey</string>
+	<string>丹麦 Denmark</string>
+	<string>俄罗斯 Russia</string>
+	<string>奥地利 Austria</string>
+	<string>捷克共和国 Czech Republic</string>
+	<string>瑞士 Switzerland</string>
+	<string>葡萄牙 Portugal</string>
+	<string>卢森堡 Luxembourg</string>
+	<string>阿尔巴尼亚 Albania</string>
+	<string>爱尔兰 Ireland</string>
+	<string>爱沙尼亚 Estonia</string>
+	<string>安道尔 Andorra</string>
+	<string>阿塞拜疆 Azerbaijan</string>
+	<string>白俄罗斯 Belarus</string>
+	<string>保加利亚 Bulgaria</string>
+	<string>冰岛 Iceland</string>
+	<string>波兰 Poland</string>
+	<string>法罗群岛 Faroe Islands</string>
+	<string>芬兰 Finland</string>
+	<string>格陵兰 Greenland</string>
+	<string>格鲁吉亚 Georgia</string>
+	<string>黑山 Montenegro</string>
+	<string>克罗地亚 Croatia</string>
+	<string>拉脱维亚 Latvia</string>
+	<string>列支敦士登 Liechtenstein</string>
+	<string>立陶宛 Lithuania</string>
+	<string>罗马尼亚 Romania</string>
+	<string>马耳他 Malta</string>
+	<string>马其顿 Macedonia</string>
+	<string>摩尔多瓦 Moldova</string>
+	<string>挪威 Norway</string>
+	<string>塞尔维亚 Serbia</string>
+	<string>塞浦路斯 Cyprus</string>
+	<string>斯洛伐克 Slovakia</string>
+	<string>斯洛文尼亚 Slovenia</string>
+	<string>乌克兰 Ukraine</string>
+	<string>匈牙利 Hungary</string>
+	<string>亚美尼亚 Armenia</string>
+	<string>美国 United States</string>
+	<string>加拿大 Canada</string>
+	<string>墨西哥 Mexico</string>
+	<string>哥斯达黎加 Costa Rica</string>
+	<string>牙买加 Jamaica</string>
+	<string>巴哈马 Bahamas</string>
+	<string>巴拿马 Panama</string>
+	<string>危地马拉 Guatemala</string>
+	<string>古巴 Cuba</string>
+	<string>安圭拉 Anguilla</string>
+	<string>巴巴多斯 Barbados</string>
+	<string>波多黎各 Puerto Rico</string>
+	<string>伯利兹 Belize</string>
+	<string>阿鲁巴 Aruba</string>
+	<string>多米尼克 Dominica</string>
+	<string>法属圣马丁 Saint Martin</string>
+	<string>荷属圣马丁 Sint Maarten</string>
+	<string>洪都拉斯 Honduras</string>
+	<string>开曼群岛 Cayman Islands</string>
+	<string>尼加拉瓜 Nicaragua</string>
+	<string>萨尔瓦多 El Salvador</string>
+	<string>特立尼达和多巴哥 Trinidad &amp; Tobago</string>
+	<string>阿根廷 Argentina</string>
+	<string>巴西 Brazil</string>
+	<string>秘鲁 Peru</string>
+	<string>玻利维亚 Bolivia</string>
+	<string>厄瓜多尔 Ecuador</string>
+	<string>法属圭亚那 French Guiana</string>
+	<string>哥伦比亚 Colombia</string>
+	<string>圭亚那 Guyana</string>
+	<string>苏里南 Suriname</string>
+	<string>委内瑞拉 Venezuela</string>
+	<string>乌拉圭 Uruguay</string>
+	<string>智利 Chile</string>
+	<string>埃及 Egypt</string>
+	<string>南非 South Africa</string>
+	<string>肯尼亚 Kenya</string>
+	<string>摩洛哥 Morocco</string>
+	<string>坦桑尼亚 Tanzania</string>
+	<string>毛里求斯 Mauritius</string>
+	<string>突尼斯 Tunisia</string>
+	<string>阿尔及利亚 Algeria</string>
+	<string>埃塞俄比亚 Ethiopia</string>
+	<string>安哥拉 Angola</string>
+	<string>索马里 Somalia</string>
+	<string>贝宁 Benin</string>
+	<string>博茨瓦纳 Botswana</string>
+	<string>布基纳法索 Burkina Faso</string>
+	<string>布隆迪 Burundi</string>
+	<string>赤道几内亚 Equatorial Guinea</string>
+	<string>多哥 Togo</string>
+	<string>冈比亚 Gambia</string>
+	<string>加纳 Ghana</string>
+	<string>加蓬 Gabon</string>
+	<string>津巴布韦 Zimbabwe</string>
+	<string>几内亚 Guinea</string>
+	<string>几内亚比绍 Guinea Bissau</string>
+	<string>科特迪瓦 Cote Divoire</string>
+	<string>莱索托 Lesotho</string>
+	<string>利比里亚 Liberia</string>
+	<string>利比亚 Libya</string>
+	<string>卢旺达 Rwanda</string>
+	<string>马达加斯加 Madagascar</string>
+	<string>马拉维 Malawi</string>
+	<string>马里 Mali</string>
+	<string>毛里塔尼亚 Mauritania</string>
+	<string>莫桑比克 Mozambique</string>
+	<string>纳米比亚 Namibia</string>
+	<string>南苏丹 South Sudan</string>
+	<string>尼日利亚 Nigeria</string>
+	<string>塞内加尔 Senegal</string>
+	<string>塞舌尔 Seychelles</string>
+	<string>斯威士兰 Swaziland</string>
+	<string>苏丹 Sudan</string>
+	<string>特里斯坦-达库尼亚群岛 Tristan da Cunha</string>
+	<string>乌干达 Uganda</string>
+	<string>赞比亚 Zambia</string>
+	<string>中非共和国 Central African Republic</string>
+	<string>澳大利亚 Australia</string>
+	<string>新西兰 New Zealand</string>
+	<string>法属波利尼西亚 French Polynesia</string>
+	<string>北马里亚纳群岛邦 Northern Mariana Islands</string>
+	<string>斐济 Fiji</string>
+	<string>关岛 Guam</string>
+	<string>帕劳 Palau</string>
+	<string>巴布亚新几内亚 Papua New Guinea</string>
+	<string>美属萨摩亚 American Samoa</string>
+	<string>纽埃 Niue</string>
+	<string>萨摩亚 Samoa</string>
+	<string>所罗门群岛 Solomon Islands</string>
+	<string>汤加 Tonga</string>
+	<string>瓦努阿图 Vanuatu</string>
+	<string>新喀里多尼亚 New Caledonia</string>
+</array>
+</plist>
